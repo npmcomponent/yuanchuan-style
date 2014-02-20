@@ -1,0 +1,11 @@
+{
+  "name": "yuanchuan-style",
+  "description": "Create stylesheets dynamically in javascript",
+  "version": "0.1.0",
+  "keywords": [
+    "css",
+    "stylesheet"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
